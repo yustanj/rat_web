@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rat_web/static/css/main.03c3cb03.css",
-    "main.js": "/rat_web/static/js/main.b99b09aa.js",
-    "static/js/488.e066a5d0.chunk.js": "/rat_web/static/js/488.e066a5d0.chunk.js",
-    "service-worker.js": "/rat_web/service-worker.js",
-    "index.html": "/rat_web/index.html",
-    "main.03c3cb03.css.map": "/rat_web/static/css/main.03c3cb03.css.map",
-    "main.b99b09aa.js.map": "/rat_web/static/js/main.b99b09aa.js.map",
-    "488.e066a5d0.chunk.js.map": "/rat_web/static/js/488.e066a5d0.chunk.js.map"
+    "main.css": "/static/css/main.12c3cf68.css",
+    "main.js": "/static/js/main.082e7eb7.js",
+    "static/js/488.e066a5d0.chunk.js": "/static/js/488.e066a5d0.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.12c3cf68.css.map": "/static/css/main.12c3cf68.css.map",
+    "main.082e7eb7.js.map": "/static/js/main.082e7eb7.js.map",
+    "488.e066a5d0.chunk.js.map": "/static/js/488.e066a5d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03c3cb03.css",
-    "static/js/main.b99b09aa.js"
+    "static/css/main.12c3cf68.css",
+    "static/js/main.082e7eb7.js"
   ]
 }
