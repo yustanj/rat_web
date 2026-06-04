@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rat_web/static/css/main.12c3cf68.css",
-    "main.js": "/rat_web/static/js/main.082e7eb7.js",
+    "main.js": "/rat_web/static/js/main.d6a2478b.js",
     "static/js/488.e066a5d0.chunk.js": "/rat_web/static/js/488.e066a5d0.chunk.js",
     "service-worker.js": "/rat_web/service-worker.js",
     "index.html": "/rat_web/index.html",
     "main.12c3cf68.css.map": "/rat_web/static/css/main.12c3cf68.css.map",
-    "main.082e7eb7.js.map": "/rat_web/static/js/main.082e7eb7.js.map",
+    "main.d6a2478b.js.map": "/rat_web/static/js/main.d6a2478b.js.map",
     "488.e066a5d0.chunk.js.map": "/rat_web/static/js/488.e066a5d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12c3cf68.css",
-    "static/js/main.082e7eb7.js"
+    "static/js/main.d6a2478b.js"
   ]
 }
